@@ -1,0 +1,91 @@
+{
+    "gro" :[
+
+        {
+            "SINO": "1",
+            "Name": "Milk",
+            "Quantity":" 1",
+            "Unit": "L",
+            "Department":"Milk",
+            "Notes": "Cow"
+        },
+        {
+            "SINO": "2",
+            "Name": "Egg",
+            "Quantity":" 15",
+            "Unit": "nos",
+            "Department":"Egg",
+            "Notes": "Duck"
+        },
+
+        {
+            "SINO": "3",
+            "Name": "Tomato",
+            "Quantity":" 1",
+            "Unit": "Kg",
+            "Department":"Tomato",
+            "Notes": "Vegitable"
+        },
+        {
+            "SINO": "4",
+            "Name": "Coconut Oil",
+            "Quantity":" 1",
+            "Unit": "L",
+            "Department":"Oil",
+            "Notes": "Oil"
+        },
+        {
+            "SINO": "5",
+            "Name": "Apple",
+            "Quantity":" 1",
+            "Unit": "Kg",
+            "Department":"Fruils",
+            "Notes": "Fresh"
+        },
+        {
+            "SINO": "6",
+            "Name": "Rice",
+            "Quantity":" 5",
+            "Unit": "Kg",
+            "Department":"Rice",
+            "Notes": "Basumathi Rice"
+        },
+        {
+            "SINO": "7",
+            "Name": "Chips",
+            "Quantity":" 1",
+            "Unit": "kg",
+            "Department":"Snacks",
+            "Notes": "Banana Chips"
+        },
+        {
+            "SINO": "8",
+            "Name": "Butter",
+            "Quantity":" 1",
+            "Unit": "kg",
+            "Department":"Milk ",
+            "Notes": "Fresh"
+        },
+        {
+            "SINO": "9",
+            "Name": "CashewNuts",
+            "Quantity":" 1",
+            "Unit": "kg",
+            "Department":"Dry Fruits",
+            "Notes": "Nuts"
+        },
+        {
+            "SINO": "10",
+            "Name": "Maggi Noodles",
+            "Quantity":" 5",
+            "Unit": "nos",
+            "Department":"Food",
+            "Notes": "Chicken"
+        }
+
+
+
+]
+
+
+}

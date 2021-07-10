@@ -1,0 +1,30 @@
+#demo{
+
+       text-indent: initial;
+    border-collapse: separate;
+    width: 80%;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       
+        text-align: left;
+        padding: 8px;
+      
+      
+
+}
+
+  
+  
+th, td {
+    
+    text-align: left;
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    background-color: papayawhip;
+}
+#img{
+    width: 303px;
+    height: 300px;
+    background-size: cover;
+
+}
